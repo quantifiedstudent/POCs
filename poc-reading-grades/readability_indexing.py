@@ -6,12 +6,11 @@ import json
 import requests
 nltk.download('punkt')
 
-# Key for getting 10k words a day translated
-key = "337a9b202ed852fe8636"
+
 
 url = 'https://api.mymemory.translated.net/get?'
 
-def ARI(text):
+def ARI(text: str) -> float:
     """
     Automated Readability Index
     Returns an approximation fo the grade required to comprehend the text
@@ -25,7 +24,7 @@ def ARI(text):
     pt3 = -21.43
     return pt1 + pt2 + pt3
 
-def flesch_kincaid_grade(text, dutch):
+def flesch_kincaid_grade(text: str, dutch: bool)  -> float:
     """
     Flesch-kincaid grade level
     Returns a level between 0 and 18, seperated in
@@ -38,7 +37,7 @@ def flesch_kincaid_grade(text, dutch):
     pt2 = 11.8*(syllables/words) - 15.59
     return pt1 + pt2
 
-def flesch_reading_ease(text, dutch):
+def flesch_reading_ease(text: str, dutch: bool)  -> float:
     """ 
     Flesch reading-ease score (FRES) 
     Scores between 0-100, where 100 is 
@@ -51,7 +50,12 @@ def flesch_reading_ease(text, dutch):
     pt2 = -84.6*float(syllables/words)
     return 206.835 + pt1 + pt2
     
-def gunning_fog_index(text, dutch):
+def gunning_fog_index(text: str, dutch: bool) -> float:
+    """
+    Readability test for English writing
+    Returns a score between 6 and 17, where 6 is sixth grade
+    and 17 is a college graduate
+    """ 
     words = sum(c.isspace() for c in text) + 1
     sentences = len(nltk.sent_tokenize(text))
     complex_syllables = count_syllables(text, dutch, 3)
@@ -59,7 +63,7 @@ def gunning_fog_index(text, dutch):
     pt2 = 100+(complex_syllables/words)
     return 0.4*float(pt1+pt2)
 
-def translate(totranslate, lang1, lang2):
+def translate(totranslate: str, lang1: str, lang2: str):
     """
     Translates the translate value
     from lang1 to lang2, 
@@ -70,7 +74,10 @@ def translate(totranslate, lang1, lang2):
     return result
 
 
-def count_syllables(text, dutch, complexity = 0):
+def count_syllables(text: str, dutch: bool, complexity = 0):
+    """
+    Counts the total syllables given 
+    """
     syllables = 0
     for word in text.split(' '):
         if dutch:
@@ -83,7 +90,7 @@ def count_syllables(text, dutch, complexity = 0):
 
 
 # ENGLISH ONLY
-def _syllables(word):
+def _syllables(word: str) -> int:
     """
     Counts the syllables which are present in this word 
     """
@@ -103,7 +110,7 @@ def _syllables(word):
     return syllable_count
 
 
-def nl_syllables(word):
+def nl_syllables(word: str) -> int:
     syllables = []
     syllable_count = 0
     vowels = 'aeiou'
@@ -122,7 +129,6 @@ def nl_syllables(word):
             syllables.append(word[previouscut:])
     return len(syllables)
 
-
 def run_comparison(text1, text2):
     print("ARI: {ARI}".format(ARI=ARI(text1)))
     print("ARI (EN): {ARI}".format(ARI=ARI(text2)))
@@ -134,21 +140,16 @@ def run_comparison(text1, text2):
     print("GFI (EN): {GFI}".format(GFI=gunning_fog_index(text2, False)))
     print("------------------------------------------")
 
-test_1 = "Ik ben makelaar in koffi, en woon op de Lauriergracht. Het is mijn gewoonte niet, romans te schrijven, of zulke dingen, en het heeft dan ook lang geduurd, voor ik er toe overging een paar riem papier extra te bestellen, en het werk aan te vangen, dat gij, lieve lezer, in de hand hebt genomen, en dat ge lezen moet als ge makelaar in koffie zijt, of als ge wat anders zijt. Niet alleen dat ik nooit iets schreef wat naar een roman geleek, maar ik houd er zelfs niet van, iets dergelijks te lezen."
-translated_1 = "I am a coffee broker and live on the Lauriergracht. It is not my habit to write novels or such things, and it took a long time before I proceeded to order a few extra reams of paper, and begin the work that you, dear reader, have in the hand, and that you should read if you are a broker in coffee, or if you are something else. Not only that I never wrote anything that looked like a novel, but I don't even like to read something like that."
+if __name__ == '__main__':
+    test_1 = "Ik ben makelaar in koffi, en woon op de Lauriergracht. Het is mijn gewoonte niet, romans te schrijven, of zulke dingen, en het heeft dan ook lang geduurd, voor ik er toe overging een paar riem papier extra te bestellen, en het werk aan te vangen, dat gij, lieve lezer, in de hand hebt genomen, en dat ge lezen moet als ge makelaar in koffie zijt, of als ge wat anders zijt. Niet alleen dat ik nooit iets schreef wat naar een roman geleek, maar ik houd er zelfs niet van, iets dergelijks te lezen."
+    translated_1 = "I am a coffee broker and live on the Lauriergracht. It is not my habit to write novels or such things, and it took a long time before I proceeded to order a few extra reams of paper, and begin the work that you, dear reader, have in the hand, and that you should read if you are a broker in coffee, or if you are something else. Not only that I never wrote anything that looked like a novel, but I don't even like to read something like that."
 
-test_2 =  "De volle maan, tragisch dien avond, was reeds vroeg, nog in den laatsten dagschemer opgerezen als een immense, bloedroze bol, vlamde als een zonsondergang laag achter de tamarindeboomen der Lange Laan en steeg, langzaam zich louterende van hare tragische tint, in een vagen hemel op. Een doodsche stilte spande alom als een sluier van zwijgen, of, na de lange middagsiësta, de avondrust zonder overgang van leven begon."
-translated_2 = "The full moon, tragic that evening, had risen early in the last twilight as an immense, blood-pink sphere, blazed like a sunset low behind the tamarind trees of Lange Laan and rose, slowly purifying itself of its tragic hue, in a vague heaven. A dead silence stretched all over like a veil of silence, or, after the long afternoon siesta, the evening rest began without a transition of life." 
+    test_2 =  "De volle maan, tragisch dien avond, was reeds vroeg, nog in den laatsten dagschemer opgerezen als een immense, bloedroze bol, vlamde als een zonsondergang laag achter de tamarindeboomen der Lange Laan en steeg, langzaam zich louterende van hare tragische tint, in een vagen hemel op. Een doodsche stilte spande alom als een sluier van zwijgen, of, na de lange middagsiësta, de avondrust zonder overgang van leven begon."
+    translated_2 = "The full moon, tragic that evening, had risen early in the last twilight as an immense, blood-pink sphere, blazed like a sunset low behind the tamarind trees of Lange Laan and rose, slowly purifying itself of its tragic hue, in a vague heaven. A dead silence stretched all over like a veil of silence, or, after the long afternoon siesta, the evening rest began without a transition of life." 
 
-test_3 = "Onbegrijpelijk veel mensen hebben familiebetrekkingen, vrienden of kennissen te Amsterdam. Het is een verschijnsel dat ik eenvoudig toeschrijf aan de veelheid der inwoners van die hoofdstad. Ik had er voor een paar jaren nog een verre neef. Waar hij nu is, weet ik niet. Ik geloof dat hij naar de West gegaan is. Misschien heeft de een of ander van mijn lezers hem wel brieven meegegeven. In dat geval hebben zij een nauwgezette, maar onvriendelijke bezorger gehad, als uit de inhoud van deze weinige bladzijden waarschijnlijk duidelijk worden zal." 
-translated_3 = "Incomprehensibly many people have family relationships, friends or acquaintances in Amsterdam. It is a phenomenon that I simply attribute to the multitude of inhabitants of that capital. I had a distant cousin there for a few years. I don't know where he is now. I believe he went to the West. Maybe some of my readers gave him letters. In that case they have had a conscientious but unfriendly delivery person, as will probably become apparent from the contents of these few pages."
+    test_3 = "Onbegrijpelijk veel mensen hebben familiebetrekkingen, vrienden of kennissen te Amsterdam. Het is een verschijnsel dat ik eenvoudig toeschrijf aan de veelheid der inwoners van die hoofdstad. Ik had er voor een paar jaren nog een verre neef. Waar hij nu is, weet ik niet. Ik geloof dat hij naar de West gegaan is. Misschien heeft de een of ander van mijn lezers hem wel brieven meegegeven. In dat geval hebben zij een nauwgezette, maar onvriendelijke bezorger gehad, als uit de inhoud van deze weinige bladzijden waarschijnlijk duidelijk worden zal." 
+    translated_3 = "Incomprehensibly many people have family relationships, friends or acquaintances in Amsterdam. It is a phenomenon that I simply attribute to the multitude of inhabitants of that capital. I had a distant cousin there for a few years. I don't know where he is now. I believe he went to the West. Maybe some of my readers gave him letters. In that case they have had a conscientious but unfriendly delivery person, as will probably become apparent from the contents of these few pages."
 
-run_comparison(test_1, translated_1)
-run_comparison(test_2, translated_2)
-run_comparison(test_3, translated_3)
-
-# merged = translated_1 + " " + translated_2
-
-# print(flesch_kincaid_grade(merged, False))
-
-
+    run_comparison(test_1, translated_1)
+    run_comparison(test_2, translated_2)
+    run_comparison(test_3, translated_3)
