@@ -79,4 +79,4 @@ if __name__ == "__main__":
         with open("newsContents.csv", "w") as csvFile:
             writer = csv.writer(csvFile)
             for newsArticle in newsContents:
-                writer.writerow([newsArticle.title, newsArticle.content, newsArticle.url, newsArticle.categories])
+                writer.writerows({newsArticle.title, newsArticle.content, newsArticle.url, newsArticle.categories})
