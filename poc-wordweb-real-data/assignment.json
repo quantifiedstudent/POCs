@@ -1,0 +1,461 @@
+{
+    "id": 164899,
+    "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>After each sprint we show our work to the stakeholder and teachers. We actively communicate about the assignment and take effort to involve teachers and stakeholders.</p>\n<p>We look for points of improvement and take feedback into account. We manage our time and tasks, keeping in mind the priorities of the stakeholer.</p>",
+    "due_at": null,
+    "unlock_at": null,
+    "lock_at": null,
+    "points_possible": 5,
+    "grading_type": "letter_grade",
+    "assignment_group_id": 26350,
+    "grading_standard_id": 13397,
+    "created_at": "2020-09-01T07:45:06Z",
+    "updated_at": "2020-11-26T12:34:19Z",
+    "peer_reviews": false,
+    "automatic_peer_reviews": false,
+    "position": 2,
+    "grade_group_students_individually": false,
+    "anonymous_peer_reviews": false,
+    "group_category_id": null,
+    "post_to_sis": false,
+    "moderated_grading": false,
+    "omit_from_final_grade": true,
+    "intra_group_peer_reviews": false,
+    "anonymous_instructor_annotations": false,
+    "anonymous_grading": false,
+    "graders_anonymous_to_graders": false,
+    "grader_count": 0,
+    "grader_comments_visible_to_graders": true,
+    "final_grader_id": null,
+    "grader_names_visible_to_final_grader": true,
+    "allowed_attempts": -1,
+    "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImJhNDg1NWM1LWY3NWUtNDRmMC1iMGQ5LTE1NDdkNTliNzQ1OSJ9.SMEDnIQJ42v7uRXE4xVnDV1QIAY19p5KM_gilQR3Rpo",
+    "course_id": 10657,
+    "name": "✅Sprint opleveringen",
+    "submission_types": [
+      "online_upload"
+    ],
+    "has_submitted_submissions": true,
+    "due_date_required": false,
+    "max_name_length": 255,
+    "in_closed_grading_period": false,
+    "is_quiz_assignment": false,
+    "can_duplicate": true,
+    "original_course_id": null,
+    "original_assignment_id": null,
+    "original_assignment_name": null,
+    "original_quiz_id": null,
+    "workflow_state": "published",
+    "muted": false,
+    "html_url": "https://fhict.instructure.com/courses/10657/assignments/164899",
+    "has_overrides": false,
+    "sis_assignment_id": null,
+    "integration_id": null,
+    "integration_data": {},
+    "use_rubric_for_grading": false,
+    "free_form_criterion_comments": false,
+    "rubric": [
+      {
+        "id": "_8427",
+        "points": 5,
+        "description": "Communication",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "blank",
+            "points": 5,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_8272",
+            "points": 4,
+            "description": "Good",
+            "long_description": "There is clear communication with stakeholders and teachers."
+          },
+          {
+            "id": "_3049",
+            "points": 3,
+            "description": "Sufficient",
+            "long_description": ""
+          },
+          {
+            "id": "blank_2",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_9104",
+        "points": 5,
+        "description": "Feedback",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_9928",
+            "points": 5,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_1130",
+            "points": 4,
+            "description": "Good",
+            "long_description": "Feedback is actively sought after and applied."
+          },
+          {
+            "id": "_4813",
+            "points": 3,
+            "description": "Sufficient",
+            "long_description": ""
+          },
+          {
+            "id": "_6689",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_281",
+        "points": 5,
+        "description": "Showcase",
+        "long_description": "",
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_7858",
+            "points": 5,
+            "description": "Full Marks",
+            "long_description": ""
+          },
+          {
+            "id": "_4398",
+            "points": 4,
+            "description": "Good",
+            "long_description": "Work done is shown so that the stakeholders have a clear view of the progress on the assisgnment."
+          },
+          {
+            "id": "_6190",
+            "points": 3,
+            "description": "Sufficient",
+            "long_description": ""
+          },
+          {
+            "id": "_8268",
+            "points": 0,
+            "description": "No Marks",
+            "long_description": ""
+          }
+        ]
+      },
+      {
+        "id": "_7398",
+        "points": 5,
+        "description": "PL-2.1",
+        "long_description": "<p><strong>Personal Leadership</strong><br><br><strong>EN</strong><br>You present yourself professionally.<br><br><strong>NL</strong><br>Je presenteert jezelf professioneel.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Being entrepreneurial in regard to the ICT assignments and personal development, while being aware of own learning capacity and keeping in mind what ambitions drive ICT professionals and/or which types of positions.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Ondernemend zijn rond ICT-opdrachten en persoonlijke ontwikkeling, daarbij aandacht hebbend voor het eigen leervermogen en voor ogen houdend\r\nwat voor ICT-professional en/of welk type functies men ambieert.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_1875",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_7030",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_8788",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_4580",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11470,
+        "vendor_guid": "OPDPL-2.1"
+      },
+      {
+        "id": "_6429",
+        "points": 5,
+        "description": "PL-2.2",
+        "long_description": "<p><strong>Personal Leadership</strong><br><br><strong>EN</strong><br>You're being independent.<br><br><strong>NL</strong><br>Je stelt je onafhankelijk op.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Being entrepreneurial in regard to the ICT assignments and personal development, while being aware of own learning capacity and keeping in mind what ambitions drive ICT professionals and/or which types of positions.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Ondernemend zijn rond ICT-opdrachten en persoonlijke ontwikkeling, daarbij aandacht hebbend voor het eigen leervermogen en voor ogen houdend\r\nwat voor ICT-professional en/of welk type functies men ambieert.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_8314",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_5247",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_3897",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_7792",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11471,
+        "vendor_guid": "OPDPL-2.2"
+      },
+      {
+        "id": "_2177",
+        "points": 5,
+        "description": "PL-2.3",
+        "long_description": "<p><strong>Personal Leadership</strong><br><br><strong>EN</strong><br>You take others with you in your own development.<br><br><strong>NL</strong><br>Je neemt anderen mee in je eigen ontwikkeling.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Being entrepreneurial in regard to the ICT assignments and personal development, while being aware of own learning capacity and keeping in mind what ambitions drive ICT professionals and/or which types of positions.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Ondernemend zijn rond ICT-opdrachten en persoonlijke ontwikkeling, daarbij aandacht hebbend voor het eigen leervermogen en voor ogen houdend\r\nwat voor ICT-professional en/of welk type functies men ambieert.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_3784",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_2877",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_2642",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_435",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11472,
+        "vendor_guid": "OPDPL-2.3"
+      },
+      {
+        "id": "_3814",
+        "points": 5,
+        "description": "TI-2.1",
+        "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You take into account different stakeholders in the assignment.<br><br><strong>NL</strong><br>Je houdt rekening met verschillende stakeholders bij de opdracht.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_4767",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_5666",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_3731",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_884",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11476,
+        "vendor_guid": "OPDTI-2.1"
+      },
+      {
+        "id": "_2088",
+        "points": 5,
+        "description": "TI-2.2",
+        "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You ensure the desired impact and execution of communication.<br><br><strong>NL</strong><br>Je zorgt voor de gewenste impact en uitvoering van communicatie.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_300",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_7935",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_3616",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_4894",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11477,
+        "vendor_guid": "OPDTI-2.2"
+      },
+      {
+        "id": "_9181",
+        "points": 5,
+        "description": "TI-2.3",
+        "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You actively seek enrichment in the assignment.<br><br><strong>NL</strong><br>Je zoekt actief verrijking in de opdracht.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_9870",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_1568",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_1939",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_2313",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11478,
+        "vendor_guid": "OPDTI-2.3"
+      },
+      {
+        "id": "_3396",
+        "points": 5,
+        "description": "TI-2.4",
+        "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You consciously build up trust when working together<br><br><strong>NL</strong><br>Je bouwt bewust vertrouwen op bij het samenwerken.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_7235",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_1615",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_6436",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_5080",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11479,
+        "vendor_guid": "OPDTI-2.4"
+      },
+      {
+        "id": "_1159",
+        "points": 5,
+        "description": "TI-2.5",
+        "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You work together in such a way that everyone's strengths and learning needs come into their own<br><br><strong>NL</strong><br>Je werkt zo samen dat ieders kracht èn leerbehoeften tot hun recht komen.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+        "ignore_for_scoring": false,
+        "criterion_use_range": false,
+        "ratings": [
+          {
+            "id": "_4912",
+            "points": 5,
+            "description": "Outstanding",
+            "long_description": ""
+          },
+          {
+            "id": "_7953",
+            "points": 4,
+            "description": "Good",
+            "long_description": ""
+          },
+          {
+            "id": "_4346",
+            "points": 3,
+            "description": "Satisfactory",
+            "long_description": ""
+          },
+          {
+            "id": "_5466",
+            "points": 0,
+            "description": "Unsatisfactory",
+            "long_description": ""
+          }
+        ],
+        "outcome_id": 11480,
+        "vendor_guid": "OPDTI-2.5"
+      }
+    ],
+    "rubric_settings": {
+      "id": 27117,
+      "title": "Opleveringen",
+      "points_possible": 55,
+      "free_form_criterion_comments": false,
+      "hide_score_total": false,
+      "hide_points": false
+    },
+    "published": true,
+    "unpublishable": false,
+    "only_visible_to_overrides": false,
+    "locked_for_user": false,
+    "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/164899/submissions?zip=1",
+    "post_manually": false,
+    "anonymize_students": false,
+    "require_lockdown_browser": false
+  }

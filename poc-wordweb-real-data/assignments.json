@@ -1,0 +1,2614 @@
+[
+    {
+      "id": 164899,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>After each sprint we show our work to the stakeholder and teachers. We actively communicate about the assignment and take effort to involve teachers and stakeholders.</p>\n<p>We look for points of improvement and take feedback into account. We manage our time and tasks, keeping in mind the priorities of the stakeholer.</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 5,
+      "grading_type": "letter_grade",
+      "assignment_group_id": 26350,
+      "grading_standard_id": 13397,
+      "created_at": "2020-09-01T07:45:06Z",
+      "updated_at": "2020-11-26T12:34:19Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 2,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": true,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImJhNDg1NWM1LWY3NWUtNDRmMC1iMGQ5LTE1NDdkNTliNzQ1OSJ9.SMEDnIQJ42v7uRXE4xVnDV1QIAY19p5KM_gilQR3Rpo",
+      "course_id": 10657,
+      "name": "✅Sprint opleveringen",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/164899",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "_8427",
+          "points": 5,
+          "description": "Communication",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_8272",
+              "points": 4,
+              "description": "Good",
+              "long_description": "There is clear communication with stakeholders and teachers."
+            },
+            {
+              "id": "_3049",
+              "points": 3,
+              "description": "Sufficient",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_9104",
+          "points": 5,
+          "description": "Feedback",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_9928",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_1130",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Feedback is actively sought after and applied."
+            },
+            {
+              "id": "_4813",
+              "points": 3,
+              "description": "Sufficient",
+              "long_description": ""
+            },
+            {
+              "id": "_6689",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_281",
+          "points": 5,
+          "description": "Showcase",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_7858",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_4398",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Work done is shown so that the stakeholders have a clear view of the progress on the assisgnment."
+            },
+            {
+              "id": "_6190",
+              "points": 3,
+              "description": "Sufficient",
+              "long_description": ""
+            },
+            {
+              "id": "_8268",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_7398",
+          "points": 5,
+          "description": "PL-2.1",
+          "long_description": "<p><strong>Personal Leadership</strong><br><br><strong>EN</strong><br>You present yourself professionally.<br><br><strong>NL</strong><br>Je presenteert jezelf professioneel.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Being entrepreneurial in regard to the ICT assignments and personal development, while being aware of own learning capacity and keeping in mind what ambitions drive ICT professionals and/or which types of positions.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Ondernemend zijn rond ICT-opdrachten en persoonlijke ontwikkeling, daarbij aandacht hebbend voor het eigen leervermogen en voor ogen houdend\r\nwat voor ICT-professional en/of welk type functies men ambieert.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_1875",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_7030",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_8788",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_4580",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11470,
+          "vendor_guid": "OPDPL-2.1"
+        },
+        {
+          "id": "_6429",
+          "points": 5,
+          "description": "PL-2.2",
+          "long_description": "<p><strong>Personal Leadership</strong><br><br><strong>EN</strong><br>You're being independent.<br><br><strong>NL</strong><br>Je stelt je onafhankelijk op.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Being entrepreneurial in regard to the ICT assignments and personal development, while being aware of own learning capacity and keeping in mind what ambitions drive ICT professionals and/or which types of positions.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Ondernemend zijn rond ICT-opdrachten en persoonlijke ontwikkeling, daarbij aandacht hebbend voor het eigen leervermogen en voor ogen houdend\r\nwat voor ICT-professional en/of welk type functies men ambieert.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_8314",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_5247",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_3897",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_7792",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11471,
+          "vendor_guid": "OPDPL-2.2"
+        },
+        {
+          "id": "_2177",
+          "points": 5,
+          "description": "PL-2.3",
+          "long_description": "<p><strong>Personal Leadership</strong><br><br><strong>EN</strong><br>You take others with you in your own development.<br><br><strong>NL</strong><br>Je neemt anderen mee in je eigen ontwikkeling.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Being entrepreneurial in regard to the ICT assignments and personal development, while being aware of own learning capacity and keeping in mind what ambitions drive ICT professionals and/or which types of positions.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Ondernemend zijn rond ICT-opdrachten en persoonlijke ontwikkeling, daarbij aandacht hebbend voor het eigen leervermogen en voor ogen houdend\r\nwat voor ICT-professional en/of welk type functies men ambieert.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_3784",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_2877",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_2642",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_435",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11472,
+          "vendor_guid": "OPDPL-2.3"
+        },
+        {
+          "id": "_3814",
+          "points": 5,
+          "description": "TI-2.1",
+          "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You take into account different stakeholders in the assignment.<br><br><strong>NL</strong><br>Je houdt rekening met verschillende stakeholders bij de opdracht.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_4767",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_5666",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_3731",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_884",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11476,
+          "vendor_guid": "OPDTI-2.1"
+        },
+        {
+          "id": "_2088",
+          "points": 5,
+          "description": "TI-2.2",
+          "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You ensure the desired impact and execution of communication.<br><br><strong>NL</strong><br>Je zorgt voor de gewenste impact en uitvoering van communicatie.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_300",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_7935",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_3616",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_4894",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11477,
+          "vendor_guid": "OPDTI-2.2"
+        },
+        {
+          "id": "_9181",
+          "points": 5,
+          "description": "TI-2.3",
+          "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You actively seek enrichment in the assignment.<br><br><strong>NL</strong><br>Je zoekt actief verrijking in de opdracht.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_9870",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_1568",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_1939",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_2313",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11478,
+          "vendor_guid": "OPDTI-2.3"
+        },
+        {
+          "id": "_3396",
+          "points": 5,
+          "description": "TI-2.4",
+          "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You consciously build up trust when working together<br><br><strong>NL</strong><br>Je bouwt bewust vertrouwen op bij het samenwerken.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_7235",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_1615",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_6436",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_5080",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11479,
+          "vendor_guid": "OPDTI-2.4"
+        },
+        {
+          "id": "_1159",
+          "points": 5,
+          "description": "TI-2.5",
+          "long_description": "<p><strong>Targeted Interaction</strong><br><br><strong>EN</strong><br>You work together in such a way that everyone's strengths and learning needs come into their own<br><br><strong>NL</strong><br>Je werkt zo samen dat ieders kracht èn leerbehoeften tot hun recht komen.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Determine which partners play a role in the ICT assignment, constructively collaborate and fitting communication aimed at achieving the desired impact.</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) Bepalen welke partners een rol spelen bij de ICT-opdracht, constructief met hen samenwerken en passend communiceren gericht op de gewenste impact.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_4912",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_7953",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_4346",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_5466",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11480,
+          "vendor_guid": "OPDTI-2.5"
+        }
+      ],
+      "rubric_settings": {
+        "id": 27117,
+        "title": "Opleveringen",
+        "points_possible": 55,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": false
+      },
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/164899/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 164897,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>This assignment will look into the possibilities of technology that could be used for development. The different technologies will be assessed based on a different set of requirements, which will be explained in this assignment. A well informed advise should be made based on this analysis.&nbsp;</p>\n<p>- Requirements of the technology will be described based on an earlier study about user needs.&nbsp;<br>- At least one expert will be interviewed about the use of technologies in this field.<br>- Minding&nbsp;<span>trustworthiness, multiple sources will be consulted<br><br></span><span></span></p>\n<p>Here you can submit your proof, parts etc. for this analysis.</p>\n<ul>\n<li>Start with the context description of the assignment</li>\n<li>At the end of the description add the criteria of the assignment.&nbsp;</li>\n<li>Always specify the number of \"points\" (these are relative scores, TIP: choose a scale 0-5).</li>\n<li>Choose a \"Grading Scheme\" for \"Display Grade as\" (preferably Complete / Incomplete or Letter Grade).</li>\n<li><strong>Choose a \"due date\" to generate your own schedule.</strong></li>\n<li><strong>Always add a rubric with your KPI(s)</strong></li>\n<li>Also add to this rubric the criteria you defined in the description.</li>\n<li><strong>Don't add proof in the description itself.</strong></li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 5,
+      "grading_type": "letter_grade",
+      "assignment_group_id": 26350,
+      "grading_standard_id": 13397,
+      "created_at": "2020-09-01T07:45:05Z",
+      "updated_at": "2020-09-01T07:45:05Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 3,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjdiNmUyYjJkLTkyZjQtNDc1OC1iOGIyLTAzOTNjMzliMWFlYiJ9.Njtwvs4ZAuW1uBGH1Paq0A484IFPWT16uL8DWRn6hFQ",
+      "course_id": 10657,
+      "name": "[Assignment Example]",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": false,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": true,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/164897",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "allowed_extensions": [
+        "doc.",
+        "docx",
+        "pdf"
+      ],
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "9695_3960",
+          "points": 5,
+          "description": "KPI1: Analyse-S2.2",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Excellent",
+              "long_description": ""
+            },
+            {
+              "id": "9695_6409",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "9695_6856",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "Onvoldoende",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "9695_8999",
+          "points": 5,
+          "description": "Criteria 1 - Requirements",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "9695_912",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "9695_1464",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Requirements for the technology should be based on earlier researched user needs."
+            },
+            {
+              "id": "9695_4599",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "9695_7167",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "9695_8346",
+          "points": 5,
+          "description": "Criteria 2 - Expert consult",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "9695_3322",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "9695_3402",
+              "points": 4,
+              "description": "Good",
+              "long_description": "An expert should be asked what technologies to use and why"
+            },
+            {
+              "id": "9695_6955",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "9695_8179",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "9695_6749",
+          "points": 5,
+          "description": "Criteria 3 - Sources",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "9695_8359",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "9695_3667",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Multiple sources should be consulted minding the trustworthiness of the sources."
+            },
+            {
+              "id": "9695_5680",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "9695_2615",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        }
+      ],
+      "rubric_settings": {
+        "id": 25981,
+        "title": "Example Rubric",
+        "points_possible": 20,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": true
+      },
+      "published": true,
+      "unpublishable": true,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/164897/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 164898,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>This assignment will look into the possibilities of technology that could be used for development. The different technologies will be assessed based on a different set of requirements, which will be explained in this assignment. A well informed advise should be made based on this analysis.&nbsp;</p>\n<p>- Requirements of the technology will be described based on an earlier study about user needs.&nbsp;<br>- At least one expert will be interviewed about the use of technologies in this field.<br>- Minding&nbsp;<span>trustworthiness, multiple sources will be consulted<br><br></span><span></span></p>\n<p>Here you can submit your proof, parts etc. for this analysis.</p>\n<ul>\n<li>Start with the context description of the assignment</li>\n<li>At the end of the description add the criteria of the assignment.&nbsp;</li>\n<li>Always specify the number of \"points\" (these are relative scores, TIP: choose a scale 0-5).</li>\n<li>Choose a \"Grading Scheme\" for \"Display Grade as\" (preferably Complete / Incomplete or Letter Grade).</li>\n<li><strong>Choose a \"due date\" to generate your own schedule.</strong></li>\n<li><strong>Always add a rubric with your KPI(s)</strong></li>\n<li>Also add to this rubric the criteria you defined in the description.</li>\n<li><strong>Don't add proof in the description itself.</strong></li>\n</ul>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 5,
+      "grading_type": "letter_grade",
+      "assignment_group_id": 26350,
+      "grading_standard_id": 13397,
+      "created_at": "2020-09-01T07:45:06Z",
+      "updated_at": "2020-09-01T07:45:06Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 4,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImQwODdmN2JjLTczZGItNDYyZS1iODYxLTViNGE5NWQ5OTYyOSJ9.OmnJYii85_GtP7ysFW3Uvh687KdtNEgZtmE1hh4M_Gc",
+      "course_id": 10657,
+      "name": "[Assignment Example] Copy",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": false,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "unpublished",
+      "muted": true,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/164898",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "allowed_extensions": [
+        "doc.",
+        "docx",
+        "pdf"
+      ],
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "9695_3960",
+          "points": 5,
+          "description": "KPI1: Analyse-S2.2",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Excellent",
+              "long_description": ""
+            },
+            {
+              "id": "9695_6409",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "9695_6856",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "Onvoldoende",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "9695_8999",
+          "points": 5,
+          "description": "Criteria 1 - Requirements",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "9695_912",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "9695_1464",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Requirements for the technology should be based on earlier researched user needs."
+            },
+            {
+              "id": "9695_4599",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "9695_7167",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "9695_8346",
+          "points": 5,
+          "description": "Criteria 2 - Expert consult",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "9695_3322",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "9695_3402",
+              "points": 4,
+              "description": "Good",
+              "long_description": "An expert should be asked what technologies to use and why"
+            },
+            {
+              "id": "9695_6955",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "9695_8179",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "9695_6749",
+          "points": 5,
+          "description": "Criteria 3 - Sources",
+          "long_description": null,
+          "ignore_for_scoring": null,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "9695_8359",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "9695_3667",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Multiple sources should be consulted minding the trustworthiness of the sources."
+            },
+            {
+              "id": "9695_5680",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "9695_2615",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        }
+      ],
+      "rubric_settings": {
+        "id": 25981,
+        "title": "Example Rubric",
+        "points_possible": 20,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": true
+      },
+      "published": false,
+      "unpublishable": true,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/164898/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 167070,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>Voor deze assignment moet er onderzoek gedaan worden naar Sentiment analyse, wat het is, wat het kan en waarmee het kan. De voor- en nadelen moeten duidelijk worden en verschillende methodes moeten vergeleken zijn.&nbsp;</p>\n<p>Verder moet hier aangetoond worden dat er mee gewerkt kan worden door middel van POC's. De analyse van een tweet, in wat voor taal dan ook. Daarnaast moet een voorbeeld gegeven worden van hoe aspect-based analyse van een groter stuk tekst gedaan zou kunnen worden.</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "pass_fail",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-09-29T07:41:35Z",
+      "updated_at": "2020-11-19T11:48:07Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 9,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjE1NTg3ZGY5LWQ2NjktNGZmNC04NzMxLWM4YWYyYmE4YjcxMyJ9.vBtFQFf4QnyHEkmk75rm3HJXs6q1C8DMu9OsUJTA9ms",
+      "course_id": 10657,
+      "name": "🚷Onderzoek en POC's Sentiment Analyse",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/167070",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "_2725",
+          "points": 5,
+          "description": "Een duidelijk beeld van sentiment analyse wordt geschetst",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": "Uit het onderzoek is duidelijk wat sentiment analyse is, waar het gebruikt voor kan worden en hoe het toegepast wordt."
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_7590",
+          "points": 5,
+          "description": "Meerdere methodes van sentiment analyse worden vergeleken",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_3529",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": "Meerdere manieren van sentiment analyse worden genoemd en vergeleken op basis van voor- en nadelen en in welke situatie het het beste gebruikt kan worden."
+            },
+            {
+              "id": "_8682",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_9056",
+          "points": 5,
+          "description": "Sentiment analyse wordt toegepast",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_9867",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": "Zinnen kunnen consistent geanalyseerd worden met sentiment analyse, in welke taal dan ook."
+            },
+            {
+              "id": "_2703",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "26299_1032",
+          "points": 5,
+          "description": "Aspect discovery in text fragment",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26299_8183",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": "De belangrijkste aspecten worden uit een stuk tekst gehaald door middel van AI"
+            },
+            {
+              "id": "26299_9215",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        }
+      ],
+      "rubric_settings": {
+        "id": 26299,
+        "title": "Onderzoek en POC's Sentiment Analyse",
+        "points_possible": 20,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": false
+      },
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/167070/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 167213,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>The Digital excellence platform needs a way to alert and notify users. Currently there is no implementation for this feature. The system needs to be SOLID so that it would be possible to be easily reused and extended. Currently the platforms architecture is of a monolithic nature, however there are plans to change this to a more microservice-like architecture.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "pass_fail",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-10-01T08:48:06Z",
+      "updated_at": "2020-10-01T08:49:13Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 10,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImI2YWJkMTMyLTVkNzQtNDE2ZC05ODVkLWQwNmRkZmI4NTI3OCJ9.CDkz4zsiifiD654lUDhF05wv0JwNrf-f89stsFjOlZM",
+      "course_id": 10657,
+      "name": "Notification system",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/167213",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/167213/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 167217,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>The Magic Leap has a lot of features and we need to explore and test the limits of the magic leap.</p>\n<p>First step is to come up with a lot of ideas of what would be useful, fun or interesting when implemented for AR.</p>\n<p>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "letter_grade",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-10-01T08:59:51Z",
+      "updated_at": "2020-10-01T09:01:39Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 11,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6Ijk3MTM1ZDUzLWIwNzItNDdmNC1hYzNmLTJiNGFhYzNlMzBkMCJ9.nvm_xZpyFdoa1ypGIuIqa-AFSHXwV7aS0mU2Bs1V_9M",
+      "course_id": 10657,
+      "name": "Concepting",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/167217",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/167217/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 167651,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p><strong>Message Broker System&nbsp;</strong></p>\n<p><span>To get the notification system up and running a message broker is going to be needed which load balances and keeps track of data. For this research is needed.</span></p>\n<p><span>A research report is needed which describes what the message broker needs to be able to do, compares different message brokers and ultimately suggest the best one the should be used.&nbsp;</span></p>\n<p><span>Also describing a way on how to set up a demo is required.</span></p>\n<p>&nbsp;</p>\n<p><span>- The concept of Message broker systems is explained with references to credible sources</span></p>\n<p><span>- At least three message broker services are compared</span></p>\n<p><span>- Aspects like cost, scalability and ease of use are considered</span></p>\n<p>- A choice is made for the best fitting service for the situation at hand</p>\n<p>- A Prototype is made validate the requirements</p>\n<p>&nbsp;Linked issue: <a href=\"https://github.com/DigitalExcellence/dex-backend/issues/253\">https://github.com/DigitalExcellence/dex-backend/issues/253</a>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "pass_fail",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-10-12T07:50:53Z",
+      "updated_at": "2020-11-20T15:20:29Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 12,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjQ0YmQzZDE1LWUyOTEtNDE1MS1iY2E0LTIzNzg5ZmZmYzM5NCJ9.VmeROB-vN3DotBd-0_rDT7yMu43_TqAEO6GLH12aWLo",
+      "course_id": 10657,
+      "name": "✅Advise on Message Broker System",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/167651",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "_946",
+          "points": 5,
+          "description": "Onderzoek",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_8825",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "Er is achtergrond onderzoek gedaan naar messagebrokers en waar ze voor nodig zijn."
+            },
+            {
+              "id": "_9551",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_688",
+          "points": 5,
+          "description": "Vergelijking",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_291",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_7890",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "Er zijn drie messagebroker services met elkaar vergeleken op basis van relevante aspecten."
+            },
+            {
+              "id": "_5488",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_4191",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_3492",
+          "points": 5,
+          "description": "Conclusie",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_3832",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_2587",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "Er is een onderbouwde keuze gemaakt voor de best passende messagebroker service"
+            },
+            {
+              "id": "_8061",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_3806",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_4158",
+          "points": 5,
+          "description": "Prototype",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_4142",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_7126",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "Er is een prototype gemaakt waarmee de eisen gevalideerd worden."
+            },
+            {
+              "id": "_3977",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_4649",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "26859_4149",
+          "points": 5,
+          "description": "Advise-S2.1",
+          "long_description": "<p><strong>EN<br></strong> Provide advice on the purchase and selection of software components during the development of a software system whereby the cost aspect plays a role.</p>\r\n<p><strong> NL</strong><br>Adviseren over aanschaf en selectie van software-componenten bij het ontwikkelen van een softwaresysteem waarbij het kostenaspect een rol kan spelen.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_837",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_454",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_5720",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_8614",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6826,
+          "vendor_guid": "Advice-S2.1"
+        },
+        {
+          "id": "26859_1875",
+          "points": 5,
+          "description": "Advise-S2.2",
+          "long_description": "<p><strong>EN<br></strong> Provide advice on a section of the architecture or a limited software system.</p>\r\n<p><strong>NL<br></strong> Adviseren over een onderdeel van een architectuur of een beperkt softwaresysteem.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_3364",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_1732",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_1421",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_3949",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6827,
+          "vendor_guid": "Advice-S2.2"
+        },
+        {
+          "id": "26859_6044",
+          "points": 5,
+          "description": "Advise-S2.3",
+          "long_description": "<p><strong>EN<br></strong> Give advice on the use of prototypes in validating the requirements.</p>\r\n<p><strong>NL<br></strong> Adviseren over het gebruik van prototypes bij het valideren van de eisen.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_5233",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_4584",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_5888",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_1717",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6828,
+          "vendor_guid": "Advice-S2.3"
+        },
+        {
+          "id": "26859_4167",
+          "points": 5,
+          "description": "IPS-2.1",
+          "long_description": "<p><strong>Investigative Problem Solving</strong><br><br><strong>EN</strong><br>You determine the direction of the solution for a given problem and choose an appropriate approach.<br><br><strong>NL</strong><br>Je bepaalt voor een gegeven probleem zelf de richting van de oplossing en kiest een passende aanpak.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Critically consider ICT assignments from various perspectives, identify problems, finding an effective approach and coming up with appropriate solutions</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) ICT-opdrachten kritisch vanuit verschillende perspectieven beschouwen, problemen identificeren, vinden van een effectieve aanpak en komen tot passende oplossingen.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_8736",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_3581",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_3820",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_948",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11466,
+          "vendor_guid": "OPDIPS-2.1"
+        },
+        {
+          "id": "26859_4716",
+          "points": 5,
+          "description": "IPS-2.2",
+          "long_description": "<p><strong>Investigative Problem Solving</strong><br><br><strong>EN</strong><br>You solve problems methodically and creatively.<br><br><strong>NL</strong><br>Je lost problemen methodisch en creatief op.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Critically consider ICT assignments from various perspectives, identify problems, finding an effective approach and coming up with appropriate solutions</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) ICT-opdrachten kritisch vanuit verschillende perspectieven beschouwen, problemen identificeren, vinden van een effectieve aanpak en komen tot passende oplossingen.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_3050",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_6918",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_7733",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_825",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11467,
+          "vendor_guid": "OPDIPS-2.2"
+        },
+        {
+          "id": "26859_3088",
+          "points": 5,
+          "description": "IPS-2.3",
+          "long_description": "<p><strong>Investigative Problem Solving</strong><br><br><strong>EN</strong><br>You actively look for alternatives.<br><br><strong>NL</strong><br>Je zoekt actief naar alternatieven.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Critically consider ICT assignments from various perspectives, identify problems, finding an effective approach and coming up with appropriate solutions</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) ICT-opdrachten kritisch vanuit verschillende perspectieven beschouwen, problemen identificeren, vinden van een effectieve aanpak en komen tot passende oplossingen.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_8282",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_1755",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_8803",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_7059",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11468,
+          "vendor_guid": "OPDIPS-2.3"
+        },
+        {
+          "id": "26859_8655",
+          "points": 5,
+          "description": "IPS-2.4",
+          "long_description": "<p><strong>Investigative Problem Solving</strong><br><br><strong>EN</strong><br>You critically go through your own chain of reasoning.<br><br><strong>NL</strong><br>Je doorloopt kritisch je eigen redeneerketen.<br><br><strong>Context EN</strong><br><em>(HBO-i context) Critically consider ICT assignments from various perspectives, identify problems, finding an effective approach and coming up with appropriate solutions</em><br><br><strong>Context NL</strong><br><em>(HBO-i context) ICT-opdrachten kritisch vanuit verschillende perspectieven beschouwen, problemen identificeren, vinden van een effectieve aanpak en komen tot passende oplossingen.</em></p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26859_3493",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26859_2947",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26859_129",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26859_9338",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 11469,
+          "vendor_guid": "OPDIPS-2.4"
+        }
+      ],
+      "rubric_settings": {
+        "id": 26859,
+        "title": "Messagebroker advise",
+        "points_possible": 55,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": false
+      },
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/167651/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 167655,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>Everything needs to be well documented in the same way the other systems for DeX are documented.&nbsp;</p>\n<p>&nbsp;</p>\n<p><strong>Analyse&nbsp;</strong></p>\n<p>It is important that the requirements are established, and security is taken into account.</p>\n<p>It needs to connect with the current system, validated on functionality and security.</p>\n<p>Moreover an acceptance test must be set up.</p>\n<p>&nbsp;</p>\n<p><strong>Design</strong></p>\n<p>The design needs to be documentated, the current documentation implements the c4 model. It needs to keep in mind quality requirements and security. Moreover it needs to be able to handle large amounts of data.&nbsp;</p>\n<p>The design needs to be validated and a testing subjects have to&nbsp; be set up.</p>\n<p>&nbsp;</p>\n<p>See linked issue: <a href=\"https://github.com/DigitalExcellence/dex-backend/issues/255\">https://github.com/DigitalExcellence/dex-backend/issues/255</a>&nbsp;</p>\n<p>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "pass_fail",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-10-12T08:30:30Z",
+      "updated_at": "2020-12-09T12:40:55Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 13,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImU1MTI5NmM2LTI4NmYtNGNhYS05ODY4LWY2NzkxZTQ0N2VjZCJ9.7o17luR_gHnNTGkRHRdPk6GTp83X5dlU5-m_oiKWke0",
+      "course_id": 10657,
+      "name": "✅Analyse and Design notification system",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/167655",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "_3914",
+          "points": 5,
+          "description": "C4 standard",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_773",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "De C4 Model standaard is correct gebruikt als documentatie."
+            },
+            {
+              "id": "_6342",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_8731",
+          "points": 5,
+          "description": "Veiligheid",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_8284",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_1524",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "Het design is gemaakt met oog op het veilig hanteren van gegevens."
+            },
+            {
+              "id": "_3076",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_3410",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_9272",
+          "points": 5,
+          "description": "Data",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_4270",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "_2850",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "Het design is gemaakt met oog op het hanteren van grote hoeveelheden data."
+            },
+            {
+              "id": "_9704",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_8680",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "26860_3567",
+          "points": 5,
+          "description": "Design-S2.2",
+          "long_description": "<p><strong>EN<br></strong> Apply design-quality criteria while taking into account security aspects and various types of devices.</p>\r\n<p><strong> NL<br></strong> Toepassen van ontwerpkwaliteitscriteria, rekening houdend met securityaspecten en verschillende typen devices.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26860_5592",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26860_5125",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26860_2511",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26860_2723",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6835,
+          "vendor_guid": "Design-S2.2"
+        },
+        {
+          "id": "26860_5135",
+          "points": 5,
+          "description": "Design-S2.1",
+          "long_description": "<p><strong>EN<br></strong> Compile a design for a software system while taking into account the use of the existing components and libraries.</p>\r\n<p><strong>NL<br></strong> Opstellen van een ontwerp voor een softwaresysteem, rekening houdend met het gebruik van bestaande componenten en libraries.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26860_3288",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26860_3234",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26860_6604",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26860_6658",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6834,
+          "vendor_guid": "Design-S2.1"
+        },
+        {
+          "id": "26860_1230",
+          "points": 5,
+          "description": "Design-S2.3",
+          "long_description": "<p><strong>EN<br></strong><span lang=\"EN-GB\">Create a design for a system that can process and consult a large quantity of data.</span></p>\r\n<p><strong> </strong></p>\r\n<p><strong>NL<br></strong> Maken van een ontwerp voor een systeem dat grote hoeveelheden data kan verwerken en raadplegen.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26860_1903",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26860_837",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26860_4341",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26860_68",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6836,
+          "vendor_guid": "Design-S2.3"
+        }
+      ],
+      "rubric_settings": {
+        "id": 26860,
+        "title": "Analyse & Design",
+        "points_possible": 30,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": false
+      },
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/167655/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 167660,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p><strong>The implementation</strong></p>\n<p>The system needs to be build and incorperated in the current system, it should follow the design document previously made.</p>\n<p>The system needs to be secure and tested, properly reporting on the test results. The development process should use CI/CD, support team work and ways to ascertain code quality. It should be released following the change and release management, moreover it should be discussed with the infrastructure team on how to deploy the system.</p>\n<p>&nbsp;</p>\n<p>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "pass_fail",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-10-12T09:41:01Z",
+      "updated_at": "2020-12-29T19:58:08Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 14,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6ImY0OWM5YWFhLTI2ZDYtNDIxNS04NjU5LTEwOGMyOWVlMjQ0MSJ9.1DS1v5FY2E80SpYsap2kY8y088c4bmkoyHWabwzJhQM",
+      "course_id": 10657,
+      "name": "✅Implementation Notification System",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/167660",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "_8988",
+          "points": 5,
+          "description": "Manage&Control-S2.1",
+          "long_description": "<p><strong>EN<br></strong> Manage and use a development environment to support software development in teams, including, among others, continuous integration as an option.</p>\r\n<p><strong> NL<br></strong> Beheren en gebruiken van een ontwikkelstraat ter ondersteuning van softwareontwikkeling in teams, waardoor onder andere continuous integration tot de mogelijkheden behoort.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_6161",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_7470",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6852,
+          "vendor_guid": "Manage&Control-S2.1"
+        },
+        {
+          "id": "_3007",
+          "points": 5,
+          "description": "Manage&Control-S2.2",
+          "long_description": "<p><strong>EN<br></strong> Apply methods and techniques to manage a software development process and safeguard the quality.</p>\r\n<p><strong> NL<br></strong> Toepassen van methoden en technieken om een softwareontwikkelproces te managen en de kwaliteit ervan te borgen.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_8084",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_8918",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_1840",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_590",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6853,
+          "vendor_guid": "Manage&Control-S2.2"
+        },
+        {
+          "id": "_6660",
+          "points": 5,
+          "description": "Realisation-S2.1",
+          "long_description": "<p><strong>EN<br></strong> Build and make available a software system that is comprised of several sub-systems while using existing components.</p>\r\n<p><strong>NL<br></strong> Bouwen en beschikbaar stellen van een softwaresysteem dat bestaat uit meerdere subsystemen, hierbij gebruikmakend van bestaande componenten.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_9138",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_5597",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_1605",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_7425",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6844,
+          "vendor_guid": "Realisation-S2.1"
+        },
+        {
+          "id": "_5875",
+          "points": 5,
+          "description": "Realisation-S2.2",
+          "long_description": "<p><strong>EN<br></strong> Integrate software components into an existing system whereby you safeguard the integrity, security and system performance.</p>\r\n<p><strong>NL<br></strong> Integreren van softwarecomponenten in een bestaand systeem, waarbij o.a. de integriteit, veiligheid en systeemprestaties bewaakt worden.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_636",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_7333",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_5140",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_3660",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6845,
+          "vendor_guid": "Realisation-S2.2"
+        },
+        {
+          "id": "_2654",
+          "points": 5,
+          "description": "Realisation-S2.3",
+          "long_description": "<p><strong>EN<br></strong> Carry out, monitor and report on unit integration, regression and system tests, with attention for security aspects.</p>\r\n<p><strong> NL<br></strong> Uitvoeren van, monitoren van en rapporteren over unit-, integratie-, regressie-, en systeemtesten, met aandacht voor security-aspecten.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_1568",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "_9451",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "_9058",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "_7804",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6846,
+          "vendor_guid": "Realisation-S2.3"
+        },
+        {
+          "id": "26489_2612",
+          "points": 5,
+          "description": "Analysis-S2.3",
+          "long_description": "<p><strong>EN<br></strong> Set up an acceptance test based on quality properties.</p>\r\n<p><strong> NL<br></strong> Opstellen van een acceptatietest aan de hand van kwaliteitseigenschappen</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_8532",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26489_1157",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26489_3185",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_8335",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6821,
+          "vendor_guid": "Analysis-S2.3"
+        },
+        {
+          "id": "26489_6356",
+          "points": 5,
+          "description": "Design-S2.4",
+          "long_description": "<p><strong>EN<br></strong> Record the quality of the design, for example by testing or prototyping, taking into account the formulated quality properties.</p>\r\n<p><strong> NL<br></strong> Vaststellen van de kwaliteit van het ontwerp, bijvoorbeeld door toetsing of prototyping, rekening houdend met de geformuleerde kwaliteitseigenschappen.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_1200",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26489_974",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26489_445",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_6701",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6837,
+          "vendor_guid": "Design-S2.4"
+        },
+        {
+          "id": "26489_851",
+          "points": 5,
+          "description": "Design-S2.5",
+          "long_description": "<p><strong>EN<br></strong> Compile test subjects according to a given test strategy.</p>\r\n<p><strong> NL<br></strong> Opstellen van testontwerpen volgens een gegeven teststrategie.</p>",
+          "ignore_for_scoring": false,
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_5432",
+              "points": 5,
+              "description": "Outstanding",
+              "long_description": ""
+            },
+            {
+              "id": "26489_9369",
+              "points": 4,
+              "description": "Good",
+              "long_description": ""
+            },
+            {
+              "id": "26489_8897",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_2546",
+              "points": 0,
+              "description": "Unsatisfactory",
+              "long_description": ""
+            }
+          ],
+          "outcome_id": 6838,
+          "vendor_guid": "Design-S2.5"
+        },
+        {
+          "id": "26489_9213",
+          "points": 5,
+          "description": "Security",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_9526",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26489_7058",
+              "points": 4,
+              "description": "Good",
+              "long_description": "User data is handled in a secure manner."
+            },
+            {
+              "id": "26489_5507",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_9199",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "26489_5132",
+          "points": 5,
+          "description": "Software Quality",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_8793",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26489_2070",
+              "points": 4,
+              "description": "Good",
+              "long_description": "The code is of high quality following the SOLID principles."
+            },
+            {
+              "id": "26489_3638",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_6288",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "26489_510",
+          "points": 5,
+          "description": "Testing",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_4378",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26489_2598",
+              "points": 4,
+              "description": "Good",
+              "long_description": "A testplan is set up and followed."
+            },
+            {
+              "id": "26489_3469",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_8644",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "26489_9717",
+          "points": 5,
+          "description": "CI/CD",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "26489_7186",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26489_3216",
+              "points": 4,
+              "description": "Good",
+              "long_description": "Make use of an environment that makes use of CI tools valididating the quality of the code changs within a software team."
+            },
+            {
+              "id": "26489_8087",
+              "points": 3,
+              "description": "Satisfactory",
+              "long_description": ""
+            },
+            {
+              "id": "26489_6988",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        }
+      ],
+      "rubric_settings": {
+        "id": 26489,
+        "title": "Software realisation/management",
+        "points_possible": 60,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": false
+      },
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/167660/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    },
+    {
+      "id": 168666,
+      "description": "<link rel=\"stylesheet\" href=\"https://instructure-uploads-eu.s3.eu-west-1.amazonaws.com/account_24640000000000001/attachments/855227/mobile.css\"><p>De vorige projectgroep heeft veel onderzoek en een demo achtergelaten.</p>\n<p>Deze demo moet getransleerd worden naar een functionele app die hetzelfde is als de demo, maar dan met beveiliging&nbsp; geschikt voor productie. Daarnaast moet er ook op een&nbsp; een database aangekoppeld worden die aangesproken wordt door middel van een ORM.&nbsp;</p>\n<p>Vervolgens moet deze nieuwe app gedeployed worden.&nbsp;</p>\n<p>&nbsp;</p>\n<p>Bijbehorende repo: <a href=\"https://git.fhict.nl/I438466/psvzwimming-reboot\">https://git.fhict.nl/I438466/psvzwimming-reboot</a>&nbsp;</p>",
+      "due_at": null,
+      "unlock_at": null,
+      "lock_at": null,
+      "points_possible": 0,
+      "grading_type": "pass_fail",
+      "assignment_group_id": 26350,
+      "grading_standard_id": null,
+      "created_at": "2020-11-09T09:25:56Z",
+      "updated_at": "2020-12-03T11:06:07Z",
+      "peer_reviews": false,
+      "automatic_peer_reviews": false,
+      "position": 15,
+      "grade_group_students_individually": false,
+      "anonymous_peer_reviews": false,
+      "group_category_id": null,
+      "post_to_sis": false,
+      "moderated_grading": false,
+      "omit_from_final_grade": false,
+      "intra_group_peer_reviews": false,
+      "anonymous_instructor_annotations": false,
+      "anonymous_grading": false,
+      "graders_anonymous_to_graders": false,
+      "grader_count": 0,
+      "grader_comments_visible_to_graders": true,
+      "final_grader_id": null,
+      "grader_names_visible_to_final_grader": true,
+      "allowed_attempts": -1,
+      "secure_params": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJsdGlfYXNzaWdubWVudF9pZCI6IjllMGVhODZmLWNkNTQtNGZhYi1hZDhmLWE4ZjY1OWRlZmEzMiJ9.8QdG_E0BYyTS-18cF4f4uW4fL8AH7DD7T5oOI6jd_OU",
+      "course_id": 10657,
+      "name": "🔴Transleren demo naar functionele App [obsolete]",
+      "submission_types": [
+        "online_upload"
+      ],
+      "has_submitted_submissions": true,
+      "due_date_required": false,
+      "max_name_length": 255,
+      "in_closed_grading_period": false,
+      "is_quiz_assignment": false,
+      "can_duplicate": true,
+      "original_course_id": null,
+      "original_assignment_id": null,
+      "original_assignment_name": null,
+      "original_quiz_id": null,
+      "workflow_state": "published",
+      "muted": false,
+      "html_url": "https://fhict.instructure.com/courses/10657/assignments/168666",
+      "has_overrides": false,
+      "sis_assignment_id": null,
+      "integration_id": null,
+      "integration_data": {},
+      "use_rubric_for_grading": false,
+      "free_form_criterion_comments": false,
+      "rubric": [
+        {
+          "id": "_7849",
+          "points": 5,
+          "description": "Veiligheid",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "blank",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26806_9622",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "De app moet veilig zijn om in productie gebruikt te kunnen worden"
+            },
+            {
+              "id": "_8069",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "blank_2",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_6433",
+          "points": 5,
+          "description": "Kwaliteit waarborging",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_4285",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26806_1249",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "De code moet voldoende getest worden zodat accurate werking gegarandeerd wordt."
+            },
+            {
+              "id": "_399",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_1893",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_4676",
+          "points": 5,
+          "description": "Bruikbaarheid",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_2498",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26806_196",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "De app moet minstens dezelfde functionaliteiten hebben als de demo."
+            },
+            {
+              "id": "_1660",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_3210",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        },
+        {
+          "id": "_6028",
+          "points": 5,
+          "description": "Beschikbaarheid",
+          "long_description": "",
+          "criterion_use_range": false,
+          "ratings": [
+            {
+              "id": "_585",
+              "points": 5,
+              "description": "Full Marks",
+              "long_description": ""
+            },
+            {
+              "id": "26806_5350",
+              "points": 4,
+              "description": "Goed",
+              "long_description": "De app is gedeployed op een manier zodat deze bruikbaar is voor de stakeholder"
+            },
+            {
+              "id": "_7408",
+              "points": 3,
+              "description": "Voldoende",
+              "long_description": ""
+            },
+            {
+              "id": "_6289",
+              "points": 0,
+              "description": "No Marks",
+              "long_description": ""
+            }
+          ]
+        }
+      ],
+      "rubric_settings": {
+        "id": 26806,
+        "title": "Rubric demo naar app",
+        "points_possible": 20,
+        "free_form_criterion_comments": false,
+        "hide_score_total": false,
+        "hide_points": false
+      },
+      "published": true,
+      "unpublishable": false,
+      "only_visible_to_overrides": false,
+      "locked_for_user": false,
+      "submissions_download_url": "https://fhict.instructure.com/courses/10657/assignments/168666/submissions?zip=1",
+      "post_manually": false,
+      "anonymize_students": false,
+      "require_lockdown_browser": false
+    }
+  ]
