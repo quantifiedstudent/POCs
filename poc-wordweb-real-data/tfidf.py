@@ -1,5 +1,4 @@
 import math
-from pathlib import Path
 from sklearn.feature_extraction.text import TfidfVectorizer
 import pandas as pd
 

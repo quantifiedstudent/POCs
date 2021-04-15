@@ -1,12 +1,12 @@
 import pandas as pd
 import csv
-import re
 from wordcloud import WordCloud
 import gensim
 from gensim.utils import simple_preprocess
 import nltk
 from nltk.corpus import stopwords
 import gensim.corpora as corpora
+import re
 from tfidf import dfItf
 import pyLDAvis.gensim_models
 
