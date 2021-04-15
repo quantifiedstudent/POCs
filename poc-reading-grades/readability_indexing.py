@@ -6,8 +6,6 @@ import json
 import requests
 nltk.download('punkt')
 
-
-
 url = 'https://api.mymemory.translated.net/get?'
 
 def ARI(text: str) -> float:
@@ -92,7 +90,7 @@ def count_syllables(text: str, dutch: bool, complexity = 0):
 # ENGLISH ONLY
 def _syllables(word: str) -> int:
     """
-    Counts the syllables which are present in this word 
+    Counts the syllables which are present in the passed word 
     """
     syllable_count = 0
     vowels = 'aeiouy'
@@ -110,7 +108,11 @@ def _syllables(word: str) -> int:
     return syllable_count
 
 
+
 def nl_syllables(word: str) -> int:
+    """
+    Counts the syllables which are present in the passed word  
+    """
     syllables = []
     syllable_count = 0
     vowels = 'aeiou'
@@ -139,6 +141,15 @@ def run_comparison(text1, text2):
     print("GFI: {GFI}".format(GFI=gunning_fog_index(text1, True)))
     print("GFI (EN): {GFI}".format(GFI=gunning_fog_index(text2, False)))
     print("------------------------------------------")
+
+def analyse_text(text, dutch):
+    print("ARI: {ARI}".format(ARI=ARI(text)))
+    print("FRE: {FRE}".format(FRE=flesch_reading_ease(text, dutch)))
+    print("FKG: {FKG}".format(FKG=flesch_kincaid_grade(text, dutch)))
+    print("GFI: {GFI}".format(GFI=gunning_fog_index(text, dutch)))
+    print("------------------------------------------")
+
+
 
 if __name__ == '__main__':
     test_1 = "Ik ben makelaar in koffi, en woon op de Lauriergracht. Het is mijn gewoonte niet, romans te schrijven, of zulke dingen, en het heeft dan ook lang geduurd, voor ik er toe overging een paar riem papier extra te bestellen, en het werk aan te vangen, dat gij, lieve lezer, in de hand hebt genomen, en dat ge lezen moet als ge makelaar in koffie zijt, of als ge wat anders zijt. Niet alleen dat ik nooit iets schreef wat naar een roman geleek, maar ik houd er zelfs niet van, iets dergelijks te lezen."
