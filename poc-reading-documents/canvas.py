@@ -60,17 +60,15 @@ def update_save_path(student_id):
     if not os.access(SAVE_PATH, os.W_OK):
             os.mkdir(SAVE_PATH)
 
-""" Simple conditional to validate whether or not a file is zip"""
-def is_zip_file(attachment):
-    return attachment['display_name'].split('.')[-1] in ".zip"
-
 """ Loop through all of the saved files recursively and extract them from zip if necessary"""
 def extract_zips():
     for items in os.walk(DEFAULT_SAVE_PATH):
         for walkedfile in items[2]:
-            if is_zip_file(walkedfile):
+            if walkedfile.endswith(".zip"):
                 zip_file = zipfile.ZipFile(items[0] + '/' +  walkedfile)
                 zip_file.extractall(items[0])
+                zip_file.close()
+                time.sleep(2)
                 os.remove(items[0] + '/' +  walkedfile)
 
 if __name__ == "__main__":
