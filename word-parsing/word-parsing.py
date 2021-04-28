@@ -1,8 +1,11 @@
 # ===================================================
 # DOCUMENT FROM DOCX
 # ===================================================
-
+import os
 from docx import Document
+import pypandoc
+
+
 
 doc = Document(".\data\document-1.docx")
 paragraphs = doc.paragraphs
@@ -24,9 +27,7 @@ file.close()
 # PYPANDOC
 # ===================================================
 
-import pypandoc
-
-output = pypandoc.convert_file("./data/document-1.docx", "plain", outputfile="output-pypandoc.txt")
+output = pypandoc.convert_file("../data/document-1.docx", "plain", outputfile="output-pypandoc.txt")
 assert output == ""
 
 
@@ -44,11 +45,11 @@ client_key = "ENTER CLIENT SECRET HERE"
 convert_api = groupdocs_conversion_cloud.ConvertApi.from_keys(client_id, client_key)
 
 try:
-    request = groupdocs_conversion_cloud.ConvertDocumentDirectRequest("txt", "./data/document-1.docx")
+    request = groupdocs_conversion_cloud.ConvertDocumentDirectRequest("txt", "../data/document-1.docx")
     result = convert_api.convert_document_direct(request)
     copyfile(result, 'output-groupdocs.txt')
 
-    request = groupdocs_conversion_cloud.ConvertDocumentDirectRequest("txt", "./data/document-1.pdf")
+    request = groupdocs_conversion_cloud.ConvertDocumentDirectRequest("txt", "../data/document-1.pdf")
     result = convert_api.convert_document_direct(request)
     copyfile(result, 'output-groupdocs-pdf.txt')
 
