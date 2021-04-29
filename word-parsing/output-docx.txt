@@ -1,0 +1,4 @@
+Testing with word parsing!
+Python is awesome!
+My test document
+This is a word document. I use different stylings to test every scenario POSSIBLE! 
