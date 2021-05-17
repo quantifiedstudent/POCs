@@ -8,7 +8,7 @@ def dfItf(documents):
     for document in documents:
         documentsString.append(" ".join(document))
 
-    vectorizer = TfidfVectorizer(max_df=.65, min_df=1, stop_words=None, use_idf=True, norm=None)
+    vectorizer = TfidfVectorizer(max_df=.65, min_df=1, stop_words=None, use_idf=True, norm=None, )
     transformed_documents = vectorizer.fit_transform(documentsString)
     transformed_documents_as_array = transformed_documents.toarray()
     docsWithRelevantWords = []
