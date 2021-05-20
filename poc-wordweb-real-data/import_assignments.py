@@ -101,7 +101,6 @@ def generate_wordweb_from_assignments_list_without_tfidf(assignments_list, file_
 
 
 def remove_verbs_from_documents(list_of_documents):
-    lemmatizer = WordNetLemmatizer()
     nltk.download('wordnet')
     nltk.download('punkt')
     nltk.download('averaged_perceptron_tagger')
@@ -116,7 +115,7 @@ def remove_verbs_from_documents(list_of_documents):
         words = nltk.word_tokenize(document_string)
         words_tagged = nltk.pos_tag(words)
         for word, tag in words_tagged:
-            if word not in ["service", "name", "server", "document", "research", "date"]:
+            if word not in ["service", "name", "server", "document", "research", "date", "newest"]:
                 if tag not in ["WP", "VBZ", "VBP", "VBN", "VBD", "VBG", "VB", "MD"]:
                     removed_verbs_document += word + " "
         processed_list_of_documents.append(removed_verbs_document)
@@ -124,9 +123,12 @@ def remove_verbs_from_documents(list_of_documents):
 
 
 assignment_list = extract_text_from_canvas_assignments_json("assignments.json")
-assignments_all_courses_list = remove_verbs_from_documents(get_text_from_all_courses_assignments("test.json"))
+assignments_all_courses_list = remove_verbs_from_documents(get_text_from_all_courses_assignments("tmp_max.json"))
 
-generate_wordweb_from_assignments_list_with_tfidf(assignments_all_courses_list, "max-with-itf-submissions-filtered",
+assignments_all_courses_list_not_filtered = get_text_from_all_courses_assignments("tmp_max.json")
+
+
+generate_wordweb_from_assignments_list_with_tfidf(assignments_all_courses_list, "1-max-with-itf-submissions-filtered",
                                                   "png", 75)
 generate_wordweb_from_assignments_list_without_tfidf(assignments_all_courses_list,
-                                                     "max-without-itf-smaller-submissions-filtered", "png", 75)
+                                                     "1-max-without-itf-smaller-submissions-filtered", "png", 75)
